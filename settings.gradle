@@ -1,0 +1,2 @@
+rootProject.name = "HW 211 ChekBox1"
+include ':app'
